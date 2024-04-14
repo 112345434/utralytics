@@ -1,0 +1,5 @@
+train: "C:\\Users\\jsj_gjj\\Desktop\\shipdata\\train\\images"
+val: "C:\\Users\\jsj_gjj\\Desktop\\shipdata\\val\\images"
+
+nc: 1
+names: ['boat']
